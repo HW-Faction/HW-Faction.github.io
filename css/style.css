@@ -19,7 +19,7 @@ h3 {
 	font-family: 'montserrat', sans-serif;
 	font-size: 23px;
 	color: #1B4580;
-	text-transform: uppercase;
+	text-transform: none;
 	margin-top: 20px;
 }
 
@@ -28,7 +28,7 @@ h4{
 	font-size: 20px;
 	color: #1B4580;
 	text-align: center;
-	text-transform: uppercase;
+	text-transform: none;
 	letter-spacing: 1px;
 	padding-top: 20px;
 }
