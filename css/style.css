@@ -63,7 +63,7 @@ a:hover, a:active, a:focus {
     border: 0 none;
 	font-family: 'montserrat', sans-serif;
 	margin-top:10px;
-	text-transform: uppercase;
+	text-transform: none;
 	margin-right: 15px;
 }
 
