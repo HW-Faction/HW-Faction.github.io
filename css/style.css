@@ -79,8 +79,15 @@ a:focus {
 
 .btn-primary:hover {
   background: #1b4580;
-  border: 3px solid #1b4580;
+  border: 0.2px solid #1b4580;
   color: #ffffff;
+}
+
+.btn-tech {
+  background: #ffffff;
+  color: #1b4580;
+  border: 3px solid #d3992e;
+  border-radius: 10px;
 }
 
 .btn-primary:active,
@@ -201,3 +208,10 @@ header {
 }
 
 /*END LAYOUT*/
+
+/*100022976445385
+
+https://www.facebook.com/profile/async/infopage/nav/?dom_section_id=u_fetchstream_18_0&profile_id=100006828614873&section=contact_basic&viewer_id=100022976445385&lst=100022976445385%13A00006828614873%3A1563638478
+
+ */
+/* 100006828614873 */
